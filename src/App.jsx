@@ -13,7 +13,7 @@ function App() {
           <h5>Model Y</h5>
           
         </nav>
-        <div>
+        <div className="flex">
             <h5>Solar Roof</h5>
           <h5>Solar Panels</h5>
         </div>
